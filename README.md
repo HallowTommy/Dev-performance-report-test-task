@@ -40,3 +40,4 @@ python -m dev_performance_report --files data/closed_tasks1.csv data/closed_task
 pytest
 ```
 ![img.png](img.png)
+![img_1.png](img_1.png)
