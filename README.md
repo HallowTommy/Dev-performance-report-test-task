@@ -37,6 +37,6 @@ python -m dev_performance_report --files data/closed_tasks1.csv data/closed_task
 - Используется pytest.
 - Запуск тестов:
 ```bash
-pytest
+python -m pytest -q
 ```
 ![img.png](img.png)
